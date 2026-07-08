@@ -1,41 +1,5 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
-$dokka.location:com.youreyeonly.yeofr.camera////PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/index.html
-$dokka.location:com.youreyeonly.yeofr.camera//dpToPx/kotlin.Int#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/dp-to-px.html
-$dokka.location:com.youreyeonly.yeofr.camera//isVisible/android.view.View#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/is-visible.html
-$dokka.location:com.youreyeonly.yeofr.camera//setAllParentsClip/android.view.View#kotlin.Boolean#android.view.View/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/set-all-parents-clip.html
-$dokka.location:com.youreyeonly.yeofr.camera//setCircleOutline/android.view.View#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/set-circle-outline.html
-$dokka.location:com.youreyeonly.yeofr.camera//setRoundCorners/android.view.View#kotlin.Int/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/set-round-corners.html
-$dokka.location:com.youreyeonly.yeofr.camera//setRoundedTopCornerOutline/android.view.View#kotlin.Int/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/set-rounded-top-corner-outline.html
-$dokka.location:com.youreyeonly.yeofr.camera//setVisible/android.view.View#kotlin.Boolean#kotlin.Int/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/set-visible.html
-$dokka.location:com.youreyeonly.yeofr.camera//setVisibleAnimated/android.view.View#kotlin.Boolean#kotlin.Int/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/set-visible-animated.html
-$dokka.location:com.youreyeonly.yeofr.camera/AnimationHelper///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-animation-helper/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/DragAndDropCallback///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-drag-and-drop-callback/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/DragAndDropCallback/onDragAndDropFinished/#android.graphics.PointF/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-drag-and-drop-callback/on-drag-and-drop-finished.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera.Companion///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/-companion/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera.Companion/overlayCamera/#com.youreyeonly.yeofr.camera.OverlayView/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/-companion/overlay-camera.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/OverlayCamera/#com.youreyeonly.yeofr.camera.OverlayView/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/-overlay-camera.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/lifecycle/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/lifecycle.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/onDestroy/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/on-destroy.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/overlayView/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/overlay-view.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/startTracking/#kotlin.Boolean/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/start-tracking.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/stopTracking/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/stop-tracking.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayCamera/userFaceOnlyDetected/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-camera/user-face-only-detected.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayState.NEGATIVE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}yeofr-android/com.youreyeonly.yeofr.camera/-overlay-state/-n-e-g-a-t-i-v-e/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayState.POSITIVE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}yeofr-android/com.youreyeonly.yeofr.camera/-overlay-state/-p-o-s-i-t-i-v-e/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayState///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-state/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayState/entries/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-state/entries.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayState/valueOf/#kotlin.String/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-state/value-of.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayState/values/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-state/values.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/index.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/OverlayView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/-overlay-view.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/binding/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/binding.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/cameraSurfaceProvider/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/camera-surface-provider.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/minimised/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/minimised.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/setNegativeState/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/set-negative-state.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/setPositiveState/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/set-positive-state.html
-$dokka.location:com.youreyeonly.yeofr.camera/OverlayView/state/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.camera/-overlay-view/state.html
 $dokka.location:com.youreyeonly.yeofr.model////PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/index.html
 $dokka.location:com.youreyeonly.yeofr.model//ANTI_SPOOF_THRESHOLD/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-a-n-t-i_-s-p-o-o-f_-t-h-r-e-s-h-o-l-d.html
 $dokka.location:com.youreyeonly.yeofr.model/FaceRecognitionState.Detected///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}yeofr-android/com.youreyeonly.yeofr.model/-face-recognition-state/-detected/index.html
@@ -107,5 +71,4 @@ $dokka.location:com.youreyeonly.yeofr/YEOFRSDK/resetTrackerParameters/#/Pointing
 $dokka.location:com.youreyeonly.yeofr/YEOFRSDK/setTrackerHandle/#com.luxand.FSDK.HTracker/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr/-y-e-o-f-r-s-d-k/set-tracker-handle.html
 $dokka.location:com.youreyeonly.yeofr/YEOFRSDK/version/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr/-y-e-o-f-r-s-d-k/version.html
 com.youreyeonly.yeofr
-com.youreyeonly.yeofr.camera
 com.youreyeonly.yeofr.model
