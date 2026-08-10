@@ -11,7 +11,7 @@ $dokka.location:com.youreyeonly.yeofr.model/FaceRecognitionState/value/#/Pointin
 $dokka.location:com.youreyeonly.yeofr.model/FaceRecognitionState/valueOf/#kotlin.String/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-face-recognition-state/value-of.html
 $dokka.location:com.youreyeonly.yeofr.model/FaceRecognitionState/values/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-face-recognition-state/values.html
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/index.html
-$dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/ImageFrameParameters/#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Double#kotlin.ByteArray#kotlin.Int#java.util.UUID#kotlin.ByteArray?#kotlin.Int/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/-image-frame-parameters.html
+$dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/ImageFrameParameters/#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Double#kotlin.ByteArray#kotlin.Int#java.util.UUID#kotlin.ByteArray?/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/-image-frame-parameters.html
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/buffer/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/buffer.html
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/bufferSize/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/buffer-size.html
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/equals/#kotlin.Any?/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/equals.html
@@ -22,7 +22,6 @@ $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/scanline/#/Poin
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/uuid/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/uuid.html
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/width/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/width.html
 $dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/yuvBytes/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/yuv-bytes.html
-$dokka.location:com.youreyeonly.yeofr.model/ImageFrameParameters/yuvRotationDegrees/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-image-frame-parameters/yuv-rotation-degrees.html
 $dokka.location:com.youreyeonly.yeofr.model/Rect///PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-rect/index.html
 $dokka.location:com.youreyeonly.yeofr.model/Rect/Rect/#kotlin.Double#kotlin.Double#kotlin.Double#kotlin.Double/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-rect/-rect.html
 $dokka.location:com.youreyeonly.yeofr.model/Rect/height/#/PointingToDeclaration/yeofr-android/com.youreyeonly.yeofr.model/-rect/height.html

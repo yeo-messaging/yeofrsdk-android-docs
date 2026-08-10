@@ -1,1 +1,1 @@
-sourceset_dependencies='{":yeofr-android/main":[],":yeofr-android/release":[]}'
+sourceset_dependencies='{":yeofr-android/release":[]}'
